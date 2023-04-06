@@ -1,0 +1,82 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Rafa",
+      "lastName": "Villaseñor",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Rodolfo",
+      "lastName": "Perez",
+      "age": 27
+    },
+    {
+      "id": 3,
+      "name": "Alfred",
+      "lastName": "Pizzana",
+      "age": 29
+    },
+    {
+      "id": 4,
+      "name": "Rodolfo",
+      "lastname": "Perez",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Rodolfo",
+      "lastname": "Perez",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Rodolfo",
+      "lastname": "Razo",
+      "age": 25
+    },
+    {
+      "id": 4,
+      "name": "Rodolfo",
+      "lastname": "Razo",
+      "age": 25
+    },
+    {
+      "id": 6,
+      "name": "Rodo",
+      "lastname": "Razo",
+      "age": 25
+    },
+    {
+      "id": 6,
+      "name": "Rodo",
+      "lastname": "Razo",
+      "age": 28
+    },
+    {
+      "id": 7,
+      "name": "Rodo",
+      "lastname": "Razo",
+      "age": 28
+    },
+    {
+      "id": 8,
+      "name": "Rodo",
+      "lastname": "Razo",
+      "age": 28
+    },
+    {
+      "id": 8,
+      "name": "Rodo",
+      "lastname": "Razo",
+      "age": 28
+    },
+    {
+      "id": 8,
+      "name": "Rodo",
+      "lastname": "Razo",
+      "age": 28
+    }
+  ]
+}
