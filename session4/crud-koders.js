@@ -13,9 +13,8 @@ function getKoders() {
         console.log(koderParseado.koders)
     })
 }
-
-
-// getKoders();
+console.log('Arreglo de koders')
+getKoders();
 
 /**
  * !  2º Crear una función que permita agregar un Koder y guardar el archivo con el cambio realizado

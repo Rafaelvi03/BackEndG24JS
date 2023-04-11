@@ -75,7 +75,7 @@ tenerEntrevista(inscriptionKodemiaRafa, (errorEntrevista, koderAEntrevistar) => 
                     console.log(`Error a ir a Preclase del Bootcamp`, errorPreclase)
                     return
                 }
-                console.log(`${koderAPreclase.nombre}, llego a Preclases del Bootcamp`,)
+                console.log(`${koderAPreclase.nombre}, llego a Preclases del Bootcamp`)
                 console.log(koderAPreclase)
             })
         })

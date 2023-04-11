@@ -119,34 +119,3 @@ main()
     .catch((error) => {
         console.log('Error: ', error)
     })
-
-
-
-
-
-
-
-
-
-
-/*  !!!!solo con async / await
- Realizar las siguientes acciones:
-1. Crear una funcion que permita leer el archivo e imprimir en consola el arreglo de Koders
-2. Crear una funcion que permita agregar un Koder y guardar el archivo con el cambio realizado
-3. Crear una funcion que permita eliminar a un Koder por su id y guardar el archivo con el cambio realizado
-4. Crear una funcion que permita editar a un koder por su id y guardar el archivo con el cambio realizado
-5. Crear una fucnion que permita obtener a los koders que sean mayores de 25 años
-Extra:
-6. Crear una funcion que permita recibir un id utilizando el process.argv y devuelva el koder correspondiente si existe.
- Req callbacks file system
-JSON.parse() -> convierte de cadena a un objeto js
-JSON.stringify() convierte de objeto a string
-JSON.stringify({}, null, "  ")
- API y REST / RESTFUL
-  * 
-* /
-
-const fs = require('fs')
-
-fs.promises.writeFile()*/
-
