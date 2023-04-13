@@ -1,0 +1,25 @@
+{
+    "koders":[
+        {
+                "id": 2,
+                "name": "Alfredo",
+                "age": 25,
+                "location": "metepec"
+              },
+              {
+                "id": 3,
+                "name": "Eddi",
+                "age": 27,
+                "location": "cdmx"
+              },
+              {
+                "id": 1,
+                "name": "Mario",
+                "age": 25,
+                "location": "cdmx" 
+            }
+        ]
+}
+
+  
+  
