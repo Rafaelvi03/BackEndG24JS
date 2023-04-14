@@ -1,25 +1,46 @@
 {
-    "koders":[
-        {
-                "id": 2,
-                "name": "Alfredo",
-                "age": 25,
-                "location": "metepec"
-              },
-              {
-                "id": 3,
-                "name": "Eddi",
-                "age": 27,
-                "location": "cdmx"
-              },
-              {
-                "id": 1,
-                "name": "Mario",
-                "age": 25,
-                "location": "cdmx" 
-            }
-        ]
+  "koders": [
+    {
+      "id": 1,
+      "name": "Mario",
+      "age": 25,
+      "location": "cdmx"
+    },
+    {
+      "id": 10,
+      "name": "Rafael Villaseñor",
+      "age": 25,
+      "location": "tepitoDos"
+    },
+    {
+      "id": 10,
+      "name": "Mario",
+      "age": 25,
+      "location": "metepec"
+    },
+    {
+      "id": 10,
+      "name": "Mario",
+      "age": 25,
+      "location": "metepec"
+    },
+    {
+      "id": 10,
+      "name": "Mario",
+      "age": 25,
+      "location": "metepec"
+    },
+    {
+      "id": 10,
+      "name": "Mario",
+      "age": 25,
+      "location": "metepecPrueba"
+    },
+    {
+      "id": 10,
+      "name": "Mario",
+      "age": 25,
+      "location": "metepecPruebaBorrar"
+    }
+  ]
 }
-
-  
-  
