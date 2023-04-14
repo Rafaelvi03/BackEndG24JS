@@ -1,0 +1,44 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Mario",
+      "age": 24,
+      "location": "Cdmx"
+    },
+    {
+      "id": 2,
+      "name": "Rafael Villaseñor",
+      "age": 25,
+      "location": "Jalisco"
+    },
+    {
+      "id": 3,
+      "name": "Eddi",
+      "age": 26,
+      "location": "Monterrey"
+    }
+  ],
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Alfred",
+      "module": "backed Developer",
+      "age": 29,
+      "generations": [
+        "20",
+        "24"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Charles",
+      "module": "backed",
+      "age": 23,
+      "generations": [
+        "20",
+        "24"
+      ]
+    }
+  ]
+}
