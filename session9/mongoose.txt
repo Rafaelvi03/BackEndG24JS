@@ -1,0 +1,4 @@
+ODM
+-Object Data Manager:
+Es un manejador de objetos (data)
+Manejar en la base de datos como objetos 
