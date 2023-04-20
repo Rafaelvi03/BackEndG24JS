@@ -1,0 +1,22 @@
+Solo puede interactuar con la siguiente aplicacion
+
+Entidades: Es un concepto critico para el negocio--> Hace referencia a los Modelos( CRUD o collection)
+Tenemos que intentar separa lo más posible ejemplo :
+-Koders
+-Mentores
+-Cedulas
+
+Uses Cases: Las acciones que podemos hacer (CRUD A NIVEL DE MODELO)
+Obtener
+Agregar
+Editar
+Eliminar
+Buscar por id 
+etc
+
+Presenters: La parte expuesta para los metodos, metodos-->
+Desde otra interfaz interna se puede acceder a ella // router -> metodo: Llama la informacion
+
+WEB: La interfaz externa
+npm init -y && npm install mongoose express dotenv && npm install nodemon -D
+
